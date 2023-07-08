@@ -37,7 +37,7 @@ header {
     display: grid;
     grid-template-columns: 150px auto;
 }
-.typing {
+.first-image {
     width: 200px;
     height: 100px;
     margin-top: 10px;
@@ -66,6 +66,9 @@ header {
     margin: 0px 75px 50px 75px;
 }
 #education {
+    margin: 0px 75px 50px 75px;
+}
+#projects {
     margin: 0px 75px 50px 75px;
 }
 #experience {
